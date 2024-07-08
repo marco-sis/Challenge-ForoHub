@@ -74,7 +74,7 @@ Para poder instalar la aplicacion, necesitamos los siguientes requisitos:
       git clone https://github.com/marco-sis/Challenge-ForoHub.git
    ```
 2. **Configuracion la base de datos MySQL:**
-  * Crea una base de datos llamado "db_forohub"
+   Crea una base de datos llamado "db_forohub"
     
 3. **Configuracion de las variables de entorno:**
     Define las siguientes variables de entorno en tu sistema:
